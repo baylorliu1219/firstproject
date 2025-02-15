@@ -1,0 +1,14 @@
+dash==2.13.0               # Core Dash framework for multi-page apps
+dash-bootstrap-components==1.6.0  # For UI components and styling
+pandas==2.2.0           # For data manipulation and analysis
+yfinance==0.2.37           # For fetching Yahoo Finance data
+plotly==5.17.0             # For creating visualizations
+numpy==1.26.0              # For numerical computations
+flask==2.2.1               # Required by Dash
+requests==2.31.0           # For handling HTTP requests (used by yfinance)
+openpyxl==3.1.2            # For writing Excel files
+xlsxwriter==3.0.9
+python-dotenv===0.20.0
+beautifulsoup4==4.12.3
+firebase-admin==6.6.0
+alembic==1.7.4
